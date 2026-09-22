@@ -1,0 +1,4 @@
+phase,run,cold,end_to_end_ms,aasist_ms,ecapa_ms,asr_scam_ms,risk_engine_ms,language,spoof_probability,scam_score
+optimized,1,true,9422.6,3086,0,6336,0,en,0.006,0.75
+optimized,2,false,3879.9,1174,0,2705,0,en,0.006,0.75
+optimized,3,false,3738.5,1058,0,2679,0,en,0.006,0.75

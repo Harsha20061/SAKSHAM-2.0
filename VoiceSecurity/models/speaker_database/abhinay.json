@@ -1,0 +1,5 @@
+{
+    "contact_id": "abhinay",
+    "embedding_file": "models/speaker_database\\abhinay.npy",
+    "embedding_size": 192
+}
